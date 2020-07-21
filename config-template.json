@@ -1,0 +1,7 @@
+{
+	"clientId": "get from sandbox app credentials",
+	"clientSecret": "get from sandbox app credentials",
+	"teamDomain": "get from sandbox team information",
+	"customerNumber": "pick from sandbox test data",
+	"proxy": null
+}

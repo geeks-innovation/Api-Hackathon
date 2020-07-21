@@ -1,0 +1,955 @@
+{
+  "Data": [
+    {
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "117707657380",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "123456789012",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "142136444505",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "234759246217",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "335731530090",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "369061473816",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "455652947021",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "482530765635",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "553352764245",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "698051575698",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "698161744199",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "717666559606",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "741682498850",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "744969641753",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "815463388165",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "820609683055",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "823113761700",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "829443036543",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "862575789117",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "909933193061",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    },
+	{
+      "customerid": "1f98590d84510127deacab0f7624f4fc",
+      "relationships": [
+        {
+          "id": "196e914983cca0743eed3e0dc1f67134"
+        }
+      ],
+      "customerpersonaldata": null,
+      "customerbusinessdata": null,
+      "customerpersonaldatadetailed": null,
+      "customercontact": {
+        "addressline": [
+          "kwenbuhhr",
+          "tvdmfiemb dierhl",
+          "tvdmfiemb",
+          "xvwuiqbqk"
+        ],
+        "postcode": "me2  4sl",
+        "emailaddress": "pzfqzntqmp@zzjdioa.vaz",
+        "homephonenumber": "86812908226",
+        "homephonenumberdate": null,
+        "mobilephonenumber": "003531728372635",
+        "mobilephonenumberdate": "2015-11-13t00:00:00z",
+        "businessphonenumber": null,
+        "businessphonenumberdate": null
+      },
+      "customercontactdetailed": null,
+      "customeridinformation": null,
+      "customerinternalreference": {
+        "customeridentificationnumber": "961977369788",
+        "businessidentificationnumber": null,
+        "custprogressindicator": "current",
+        "firstcontactdate": "1992-03-04t00:00:00z",
+        "highnetworthindicator": false,
+        "homeownershipindicator": false,
+        "marketingbyemailindicator": false,
+        "marketingbymailindicator": false,
+        "marketingbyphoneindicator": false,
+        "marketingbypromptindicator": true,
+        "marketingbysmsindicator": false,
+        "staffindicator": false,
+        "deceaseddate": null
+      },
+      "customertype": "personal"
+    }
+  ],
+  "links": {
+
+  },
+  "meta": {
+
+  }
+}
