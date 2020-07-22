@@ -9,6 +9,17 @@
 	2. Enter the Domain from the Team Information section of your team's page ([dashboard](https://developer.rbs.useinfinite.io/dashboard) -> demo-team-... -> Team Information)
 4. Run `node Index.js` to authenticate and fetch data from OB api and FSA ratings api.
 
+## Process to extract FitBit api data
+1. Go to Fitbit Master folder
+2. Run `npm install` to install dependencies
+3. Replace below variables in server.js with your client details
+	1. process.env.CLIENT_ID
+	2. process.env.CLIENT_SECRET 
+	3. process.env.SESSION_SECRET  	
+4. Run `node server.js`
+5. Open chrome browser and navigate to `http://localhost:8080`. It will ask you to login to fitbit page.
+6. After authetntication, it will downaload the customers activity data.
+
 ## Running the app
 
 1. Open `Server.js` file and "ServerName" either with localhost or the server where you want to host the application.
